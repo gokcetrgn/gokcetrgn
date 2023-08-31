@@ -5,10 +5,10 @@
 ### <div align="center">I'm Gökçe, a student in Karadeniz Technical University</div>  
   
 
-- I’m currently learning how to be good developer.  
+- I learnt dart & flutter and made some apps, I'm currently learning java tehnologies and frameworks. I'm just in beginning so adding my basic projects to Github  
   
 
-- I'm also improving myself at java technologies and frameworks.  
+- Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects
   
 
 - You can reach me in Linkedin or gokcetorgan@hotmail.com  
@@ -46,7 +46,6 @@
 
 
 ## Connect with me  
-<div align="center">
 <a href="https://github.com/gokcetrgn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -55,8 +54,7 @@
 </a>
 <a href="https://instagram.com/gokcenai" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>   
   
 
 <br/>  
@@ -68,10 +66,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
