@@ -5,7 +5,7 @@
 ### <div align="center">I'm Gökçe, a student in Karadeniz Technical University</div>  
   
 
-- I learnt dart & flutter and made some apps, currently learning java tehnologies and frameworks. I'm just in beginning so adding my basic projects to Github  
+- I learnt dart & flutter and made some apps, currently learning Android mobile development with Kotlin. I'm just in beginning so adding my basic projects to Github  
   
 
 - Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects
