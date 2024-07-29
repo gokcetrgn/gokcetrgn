@@ -11,7 +11,7 @@
 - Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects
   
 
-- You can reach me in Linkedin or gokcetorgan@hotmail.com  
+- You can reach me in Linkedin or gokcetorgan@gmail.com  
   
 
 <br/>  
