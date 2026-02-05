@@ -5,13 +5,11 @@
 ### <div align="center">I'm Gökçe, a student in Karadeniz Technical University</div>  
   
 
-- I learnt Selenium, Cucumber and Gauge and made some projects, currently learning software test automation. I'm just in beginning so adding my projects to Github  
-  
+- I have learned Selenium, Cucumber and Gauge, and developed several test automation projects. Currently, I am continuing to learn software test automation and improving my QA skills.
 
-- Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects
-  
+- As someone at the beginning of this journey, I use each project as a learning opportunity and share my progress through this repository.
 
-- You can reach me in Linkedin (in/gokcetrgn) or gokcetorgan@gmail.com  
+- I am always open to feedback and suggestions that can help me grow as a QA engineer.
   
 
 <br/>  
@@ -35,11 +33,7 @@
 </a>   
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gokcetrgn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> 
 
 <br/>  
 
