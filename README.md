@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Gökçe, a student in Karadeniz Technical University</div>  
+### <div align="center">I'm Gökçe, new grad Computer Engineer</div>  
   
 
 - I have learned Selenium, Cucumber and Gauge, and developed several test automation projects. Currently, I am continuing to learn software test automation and improving my QA skills.
